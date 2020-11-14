@@ -1,0 +1,12 @@
+{
+  "name": "icongrab",
+  "version": "1.0.0",
+  "description": "Grab svg icon packs from www.flaticon.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
